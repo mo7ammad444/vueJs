@@ -1,0 +1,11 @@
+<svg id="Component_86_13" data-name="Component 86 – 13" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <rect id="Rectangle_179" data-name="Rectangle 179" width="24" height="24" fill="none"/>
+  <rect id="Rectangle_179-2" data-name="Rectangle 179" width="24" height="24" fill="none"/>
+  <g id="vuesax_outline_location" data-name="vuesax/outline/location" transform="translate(-423.5 -183.5)">
+    <g id="location" transform="translate(428 188)">
+      <path id="Vector" d="M3.144,6.281A3.14,3.14,0,1,1,6.289,3.144,3.147,3.147,0,0,1,3.144,6.281Zm0-5.062A1.926,1.926,0,1,0,5.07,3.144,1.93,1.93,0,0,0,3.144,1.219Z" transform="translate(6.606 5.233)" fill="#292d32"/>
+      <path id="Vector-2" data-name="Vector" d="M7.619,17.477A4.851,4.851,0,0,1,4.263,16.12C1.866,13.813-.783,10.132.217,5.753A7.407,7.407,0,0,1,7.619,0h.008a7.406,7.406,0,0,1,7.4,5.761c.991,4.379-1.658,8.052-4.054,10.359A4.851,4.851,0,0,1,7.619,17.477Zm0-16.258a6.136,6.136,0,0,0-6.208,4.8c-.878,3.827,1.527,7.126,3.7,9.214a3.6,3.6,0,0,0,5.013,0C12.3,13.146,14.7,9.847,13.842,6.021A6.159,6.159,0,0,0,7.619,1.219Z" transform="translate(2.131 1.016)" fill="#292d32"/>
+      <path id="Vector-3" data-name="Vector" d="M0,0H19.5V19.5H0Z" fill="none" opacity="0"/>
+    </g>
+  </g>
+</svg>

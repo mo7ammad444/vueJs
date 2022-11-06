@@ -1,0 +1,9 @@
+<svg id="Component_86_10" data-name="Component 86 – 10" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <rect id="Rectangle_179" data-name="Rectangle 179" width="24" height="24" fill="none"/>
+  <rect id="Rectangle_179-2" data-name="Rectangle 179" width="24" height="24" fill="none"/>
+  <g id="frame" transform="translate(-106 -248.987)">
+    <path id="Vector" d="M4.455,8.636H4.389a.452.452,0,0,0-.15,0,4.285,4.285,0,1,1,.242,0ZM4.322,1.249a3.07,3.07,0,0,0-.117,6.138,1.375,1.375,0,0,1,.266,0,3.071,3.071,0,0,0-.15-6.138Z" transform="translate(113.671 253.041)" fill="#292d32"/>
+    <path id="Vector-2" data-name="Vector" d="M0,0H19.987V19.987H0Z" transform="translate(108 252)" fill="none" opacity="0"/>
+    <path id="Vector-3" data-name="Vector" d="M6.3,8.422A8.226,8.226,0,0,1,1.791,7.172,3.574,3.574,0,0,1,0,4.216,3.611,3.611,0,0,1,1.791,1.243a8.817,8.817,0,0,1,9.028,0A3.593,3.593,0,0,1,12.609,4.2a3.611,3.611,0,0,1-1.791,2.973A8.246,8.246,0,0,1,6.3,8.422ZM2.482,2.292A2.4,2.4,0,0,0,1.249,4.224,2.389,2.389,0,0,0,2.482,6.14a7.526,7.526,0,0,0,7.645,0,2.4,2.4,0,0,0,1.233-1.932,2.389,2.389,0,0,0-1.233-1.915A7.565,7.565,0,0,0,2.482,2.292Z" transform="translate(111.831 262.358)" fill="#292d32"/>
+  </g>
+</svg>

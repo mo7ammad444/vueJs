@@ -1,0 +1,36 @@
+{
+  "name": "my-project",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview --port 4173",
+    "test:unit": "vitest --environment jsdom",
+    "test:e2e": "start-server-and-test preview http://localhost:4173/ 'cypress open --e2e'",
+    "test:e2e:ci": "start-server-and-test preview http://localhost:4173/ 'cypress run --e2e'"
+  },
+  "dependencies": {
+    "flowbite": "^1.5.3",
+    "force": "^0.0.3",
+    "pinia": "^2.0.21",
+    "vue": "^3.2.38",
+    "vue-axios": "^3.4.1",
+    "vue-router": "^4.1.5",
+    "vueperslides": "^3.4.2",
+    "vuex": "^4.1.0",
+    "vuex-persistedstate": "^4.1.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^3.0.3",
+    "@vitejs/plugin-vue-jsx": "^2.0.1",
+    "@vue/test-utils": "^2.0.2",
+    "autoprefixer": "^10.4.13",
+    "cypress": "^10.7.0",
+    "jsdom": "^20.0.0",
+    "postcss": "^8.4.18",
+    "start-server-and-test": "^1.14.0",
+    "tailwindcss": "^3.2.1",
+    "vite": "^3.0.9",
+    "vitest": "^0.23.0"
+  }
+}
